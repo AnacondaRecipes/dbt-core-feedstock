@@ -20,6 +20,7 @@ requirements:
   host:
     - python >=3.9
     - pip
+    - wheel
   run:
     - python >=3.9
     - agate
