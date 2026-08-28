@@ -43,7 +43,7 @@ requirements:
     - pyyaml >=6.0
     - requests <3.0.0
     - snowplow-tracker >=1.0.2,<2.0
-    - sqlparse >=0.5.5,<0.6.0
+    - sqlparse >=0.5.5,<=0.6.0
     - typing-extensions >=4.4
 
 test:
